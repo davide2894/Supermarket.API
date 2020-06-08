@@ -1,15 +1,22 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Supermarket.API.Domain.Models;
+using Supermarket.API.Domain.Repositories;
 using Supermarket.API.Domain.Services;
 
 namespace Supermarket.API.Services
 {
     public class CategoryService : ICategoryService
     {
-        public Task<IEnumerable<Category>> ListAllCategoriesAsync()
+        private readonly ICategoryRepository _categoryRepository;
+        public CategoryService(ICategoryRepository categoryRepository)
         {
-            throw new System.NotImplementedException();
+            _categoryRepository = categoryRepository;
+        }
+        public async Task<IEnumerable<Category>> ListAllCategoriesAsync()
+        {
+            //use repository pattern to handle data acess to and from db
+            return await _categoryRepository.ListAllCategoriesAsync();
         }
     }
 }
