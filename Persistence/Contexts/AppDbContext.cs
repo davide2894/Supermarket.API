@@ -39,9 +39,9 @@ namespace Supermarket.API.Persistence.Contexts
                 .HasMany(property => property.Products)
                 .WithOne(property => property.Category);
 
-            //modelBuilder
-            //    .Entity<Category>()
-            //    .HasData(
+            modelBuilder
+                .Entity<Category>()
+                .HasData("Product");
         }
     }
 }
