@@ -1,0 +1,14 @@
+C:\code\Supermarket.API\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\code\Supermarket.API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\code\Supermarket.API\bin\Debug\netcoreapp2.0\Supermarket.API.deps.json
+C:\code\Supermarket.API\bin\Debug\netcoreapp2.0\Supermarket.API.runtimeconfig.json
+C:\code\Supermarket.API\bin\Debug\netcoreapp2.0\Supermarket.API.runtimeconfig.dev.json
+C:\code\Supermarket.API\bin\Debug\netcoreapp2.0\Supermarket.API.dll
+C:\code\Supermarket.API\bin\Debug\netcoreapp2.0\Supermarket.API.pdb
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.0\Supermarket.API.csproj.AssemblyReference.cache
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.0\Supermarket.API.AssemblyInfoInputs.cache
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.0\Supermarket.API.AssemblyInfo.cs
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.0\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.0\Supermarket.API.dll
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.0\Supermarket.API.pdb
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.0\Supermarket.API.genruntimeconfig.cache

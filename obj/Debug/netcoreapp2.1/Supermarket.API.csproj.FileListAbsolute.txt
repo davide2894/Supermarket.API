@@ -1,0 +1,6 @@
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.csproj.AssemblyReference.cache
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.AssemblyInfoInputs.cache
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.AssemblyInfo.cs
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.RazorAssemblyInfo.cache
+C:\code\Supermarket.API\obj\Debug\netcoreapp2.1\Supermarket.API.RazorAssemblyInfo.cs
